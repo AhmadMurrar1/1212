@@ -1,0 +1,15 @@
+#wa7d {
+    border-radius: 25px;
+    border: 1px solid red;
+    height: 100;
+    
+}
+#tnen  {
+    font-style: italic;
+    font-weight: bold;
+}
+#tlat {
+    background-color: black;
+    color: aliceblue;
+    font-family:monospace;
+}
